@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "55KBIV2Dowg+g2I3l7QBgJDjB+BoyKXKm/1S040u/7Rn3I9rut4Bkd61Bx7CTY+tovWKr6BXzOcnCSwKZnVluQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\WIN 10\\שולחן העבודה\\פרוייקט גמר\\BE\\Backend\\Backend\\Backend.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package EntityFramework. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "EntityFramework",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.NETCore.App. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.NETCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    }
+  ]
+}
